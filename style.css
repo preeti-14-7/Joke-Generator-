@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    padding: 20px;
+    margin-top: 5rem;
+    background-color: greenyellow;
+    border-radius: 10px;
+    
+}
+#joke{
+    color: brown;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+#btn{
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+    font-size: large;
+    background-color:darkseagreen;
+}
